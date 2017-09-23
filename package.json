@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-lennon",
+  "version": "1.0.0",
+  "description": "My personal eslint configuration",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madbence/eslint-config-lennon.git"
+  },
+  "keywords": [
+    "eslint",
+    "config"
+  ],
+  "author": "Bence Dányi <bence@danyi.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madbence/eslint-config-lennon/issues"
+  },
+  "homepage": "https://github.com/madbence/eslint-config-lennon#readme"
+}
