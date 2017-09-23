@@ -56,7 +56,7 @@ module.exports = {
     'class-methods-use-this': 'warn',
     'complexity': 'off',
     'consistent-return': 'error',
-    'curly': ['error', 'multi'],
+    'curly': ['error', 'multi-line'],
     'default-case': 'warn',
     'dot-location': ['error', 'property'],
     'dot-notation': 'off',
