@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-lennon",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "My personal eslint configuration",
   "main": "index.js",
   "files": [

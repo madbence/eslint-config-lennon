@@ -173,7 +173,7 @@ module.exports = {
     'id-blacklist': 'off',
     'id-length': 'off',
     'id-match': 'off',
-    'indent': ['error', 2],
+    'indent': ['error', 2, {SwitchCase: 1}],
     'jsx-quotes': ['error', 'prefer-single'],
     'key-spacing': 'error',
     'keyword-spacing': 'error',
