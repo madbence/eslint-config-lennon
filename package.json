@@ -1,10 +1,11 @@
 {
   "name": "eslint-config-lennon",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "My personal eslint configuration",
   "main": "index.js",
   "files": [
-    "index.js"
+    "index.js",
+    "react.js"
   ],
   "repository": {
     "type": "git",
