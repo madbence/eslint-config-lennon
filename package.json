@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/madbence/eslint-config-lennon#readme",
   "dependencies": {
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.2.0",
     "eslint-plugin-react": "^7.4.0"
   }
 }
