@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/madbence/eslint-config-lennon/issues"
   },
-  "homepage": "https://github.com/madbence/eslint-config-lennon#readme"
+  "homepage": "https://github.com/madbence/eslint-config-lennon#readme",
+  "dependencies": {
+    "eslint-plugin-react": "^7.4.0"
+  }
 }
