@@ -294,7 +294,7 @@ module.exports = {
     'import/no-deprecated': 'off',
     'import/no-extraneous-dependencies': 'error',
     'import/no-mutable-exports': 'error',
-    'import/ambigous': 'error',
+    'import/unambiguous': 'off',
     'import/no-commonjs': 'error',
     'import/no-amd': 'error',
     'import/no-nodejs-modules': 'off',
