@@ -303,7 +303,7 @@ module.exports = {
     'import/no-duplicates': 'error',
     'import/no-namespace': 'off',
     'import/extensions': 'off',
-    'import/order': ['error', {'groups': ['builtin', 'external', 'parent', ['sibling', 'index']], 'newlines-between': 'always-and-inside-groups'}],
+    'import/order': ['error', {'groups': ['builtin', 'external', 'parent', ['sibling', 'index']]}],
     'import/newline-after-import': 'error',
     'import/prefer-default-export': 'off',
     'import/max-dependencies': 'off',
