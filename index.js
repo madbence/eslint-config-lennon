@@ -300,7 +300,7 @@ module.exports = {
     'import/no-nodejs-modules': 'off',
     'import/first': 'error',
     'import/exports-last': 'error',
-    'import/no-duplicates': 'err',
+    'import/no-duplicates': 'error',
     'import/no-namespace': 'off',
     'import/extensions': 'off',
     'import/order': ['error', {'groups': ['builtin', 'external', 'parent', ['sibling', 'index']], 'newlines-between': 'always-and-inside-groups'}],
