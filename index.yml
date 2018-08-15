@@ -150,7 +150,7 @@ rules:
   comma-spacing: error
   comma-style: error
   computed-property-spacing: error
-  consistent-this: [warn, self],
+  consistent-this: [warn, self]
   eol-last: error
   func-call-spacing: error
   func-name-matching: off
@@ -212,7 +212,7 @@ rules:
   padded-blocks: off
   padding-line-between-statements: off
   quote-props: [error, consistent-as-needed]
-  quotes: [error, single],
+  quotes: [error, single]
   require-jsdoc: off
   semi: error
   semi-spacing: error
