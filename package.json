@@ -6,7 +6,8 @@
     "index.yml",
     "react.yml",
     "node.yml",
-    "import.yml"
+    "import.yml",
+    "typescript.yml"
   ],
   "repository": {
     "type": "git",
