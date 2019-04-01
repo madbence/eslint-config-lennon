@@ -3,6 +3,7 @@ rules:
   # Possible errors
   for-direction: error
   getter-return: off
+  no-async-promise-executor: error
   no-await-in-loop: off
   no-compare-neg-zero: error
   no-cond-assign: off
